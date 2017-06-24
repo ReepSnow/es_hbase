@@ -25,7 +25,7 @@ public class Esutil {
 	public static Client client = null;
 
 		/**
-		 * 获取客户端
+		 * 获取客户端测试
 		 * @return
 		 */
 		public static  Client getClient() {
